@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-17T18:32:52 IST" name="Default suite" finished-at="2023-10-17T18:38:48 IST" duration-ms="355541">
+    <groups>
+    </groups>
+    <test started-at="2023-10-17T18:32:52 IST" name="Default test" finished-at="2023-10-17T18:38:48 IST" duration-ms="355541">
+      <class name="Profile.TC_ID_26">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:32:52 IST" name="setUp" finished-at="2023-10-17T18:33:11 IST" duration-ms="18476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Login()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:33:11 IST" name="Login" finished-at="2023-10-17T18:34:08 IST" duration-ms="57056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Profile()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:34:08 IST" name="Profile" finished-at="2023-10-17T18:34:14 IST" duration-ms="6049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Profile -->
+        <test-method signature="TC_ID_26_02()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:34:14 IST" name="TC_ID_26_02" finished-at="2023-10-17T18:34:54 IST" duration-ms="40308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_02 -->
+        <test-method signature="TC_ID_26_03()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:34:54 IST" name="TC_ID_26_03" finished-at="2023-10-17T18:35:06 IST" duration-ms="11910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_03 -->
+        <test-method signature="TC_ID_26_04()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:35:06 IST" name="TC_ID_26_04" finished-at="2023-10-17T18:36:04 IST" duration-ms="57638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_04 -->
+        <test-method signature="TC_ID_26_05()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:36:04 IST" name="TC_ID_26_05" finished-at="2023-10-17T18:36:29 IST" duration-ms="24837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_05 -->
+        <test-method signature="TC_ID_26_06()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:36:29 IST" name="TC_ID_26_06" finished-at="2023-10-17T18:36:34 IST" duration-ms="5206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_06 -->
+        <test-method signature="TC_ID_26_07()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:36:34 IST" name="TC_ID_26_07" finished-at="2023-10-17T18:36:59 IST" duration-ms="25212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_07 -->
+        <test-method signature="TC_ID_26_08()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:36:59 IST" name="TC_ID_26_08" finished-at="2023-10-17T18:37:22 IST" duration-ms="23303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_08 -->
+        <test-method signature="TC_ID_26_09()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:37:22 IST" name="TC_ID_26_09" finished-at="2023-10-17T18:37:44 IST" duration-ms="21037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_09 -->
+        <test-method signature="TC_ID_26_10()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:37:44 IST" name="TC_ID_26_10" finished-at="2023-10-17T18:38:08 IST" duration-ms="24516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_10 -->
+        <test-method signature="TC_ID_26_11()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:38:08 IST" name="TC_ID_26_11" finished-at="2023-10-17T18:38:10 IST" duration-ms="1926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_11 -->
+        <test-method signature="TC_ID_26_12()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:38:10 IST" name="TC_ID_26_12" finished-at="2023-10-17T18:38:25 IST" duration-ms="15006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_12 -->
+        <test-method signature="TC_ID_26_13()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:38:25 IST" name="TC_ID_26_13" finished-at="2023-10-17T18:38:32 IST" duration-ms="7252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_13 -->
+        <test-method signature="TC_ID_26_14()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:38:32 IST" name="TC_ID_26_14" finished-at="2023-10-17T18:38:38 IST" duration-ms="5933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_14 -->
+        <test-method signature="TC_ID_26_15()[pri:0, instance:Profile.TC_ID_26@65f8f5ae]" started-at="2023-10-17T18:38:38 IST" name="TC_ID_26_15" finished-at="2023-10-17T18:38:48 IST" duration-ms="9689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ID_26_15 -->
+      </class> <!-- Profile.TC_ID_26 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
